@@ -1,10 +1,10 @@
 # maniacli
 
 ## Installation
-
+> NOTE: python 3.7+ is required!
 ```
-# pip3 install pynacl pyinstaller pyyaml
-# make && make install
+$ sudo -H pip3 install setuptools pynacl pyinstaller pyyaml
+$ make && sudo make install
 ```
 
 ## Usage
